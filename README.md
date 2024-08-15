@@ -1,17 +1,23 @@
+<p align="center">
+  <img src=".github/assets/Angular.png">
+</p>
+
 # DIO | Santander Bootcamp Fullstack Java Com Angular e Javascript
 
 Repositório criado para armazenar os projetos desenvolvidos 
 durante o Bootcamp Fullstack Java Com Angular e Javascript da [Digital Innvoation One](https://www.dio.me).
 
 ## 📚 Documentação
-- [Repositorio Curso](https://github.com/digitalinnovationone/trilha-python-dio/tree/main)
+- [Repositório Curso DIO](https://github.com/felipeAguiarCode/angular-playground/tree/main)
 
 ## 💻 Resumos das Aulas
 
 | Aulas | Resumos |
 |-------|---------|
-| Listas | [01_Listas](https://github.com/G2Martins/Dio_Projects_Python/tree/main/Aulas/EstruturaDeDados/01_Listas) |
-| Tuplas | [02_Tuplas](https://github.com/G2Martins/Dio_Projects_Python/tree/main/Aulas/EstruturaDeDados/02_Tuplas) |
+| Angular | [Clique aqui](https://github.com/G2Martins/DIO_Projects_FullStack_Bootcamp/tree/main/Angular) |
+| HTML5 | [Clique aqui](https://github.com/G2Martins/DIO_Projects_FullStack_Bootcamp/tree/main/HTML5) |
+| JavaScript | [Clique aqui](https://github.com/G2Martins/DIO_Projects_FullStack_Bootcamp/tree/main/JavaScript) |
+| TypeScript | [Clique aqui](https://github.com/G2Martins/DIO_Projects_FullStack_Bootcamp/tree/main/Typescript) |
 
 
 ```
@@ -20,3 +26,5 @@ A Main() Do Céu 🙏🏽🙌🏽
 
 ## 🔍 Referências
 - [Digital Innvoation One](https://www.dio.me)
+- [Angular Documentation](https://angular.dev/overview)
+- [StackBlitz](https://stackblitz.com/)
