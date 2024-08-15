@@ -28,3 +28,4 @@ A Main() Do Céu 🙏🏽🙌🏽
 - [Digital Innvoation One](https://www.dio.me)
 - [Angular Documentation](https://angular.dev/overview)
 - [StackBlitz](https://stackblitz.com/)
+- [Angular YT Channel](https://www.youtube.com/@Angular/featured)
