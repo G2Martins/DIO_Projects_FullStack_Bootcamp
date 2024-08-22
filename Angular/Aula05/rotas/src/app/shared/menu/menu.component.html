@@ -1,0 +1,20 @@
+<!-- [routerLinkActive] = Permite a associar a uma classe do css -->
+<div>
+	<ul>
+		<li>
+			<a
+				[routerLink]="['/']"
+				[routerLinkActive]="['activated']"
+				[routerLinkActiveOptions]="{ exact: true }"
+				>Home
+			</a>
+		</li>
+		<li>
+			<a 
+			[routerLink]="['/portfolio']" 
+			[routerLinkActive]="['activated']"
+			>Portfolio
+			</a>
+		</li>
+	</ul>
+</div>
